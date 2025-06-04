@@ -23,5 +23,6 @@ public class Main {
         System.out.println("Realizando pagamento...");
         pagamento.pagar(valor);
         System.out.println("Pagamento realizado com sucesso!\n");
+        
     }
 }
